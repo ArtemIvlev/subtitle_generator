@@ -1,0 +1,8 @@
+moviepy==1.0.3
+faster-whisper==0.10.0
+tqdm==4.66.2
+python-dotenv==1.0.0
+torch>=2.0.0
+nvidia-cudnn-cu12>=8.9.7
+ffmpeg-python>=0.2.0
+googletrans==3.1.0a0
